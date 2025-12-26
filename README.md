@@ -63,7 +63,7 @@ http://127.0.0.1:8000/docs
 POST /register
 
 {
-  "email": "yourmail@gmail.com",
+  "email": "hiremathvaishnavi2003@gmail.com",
   "password": "12345"
 }
 
@@ -75,7 +75,7 @@ POST /register
 POST /verify-otp
 
 {
-  "email": "yourmail@gmail.com",
+  "email": "hiremathvaishnavi2003@gmail.com",
   "otp": "123456"
 }
 
