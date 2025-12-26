@@ -1,4 +1,4 @@
-📧 Email OTP Authentication System (FastAPI)
+📧 Email OTP Authentication System (FastAPI) :
 This project is a secure user authentication system built using FastAPI, SQLite, and SMTP.It allows users to register using their email and verifies their identity using a One-Time Password (OTP) sent via email.
 
 🚀 Features
@@ -17,7 +17,7 @@ FastAPI Backend
 
 Swagger UI for API Testing
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 Python
 
@@ -29,7 +29,7 @@ SMTP (Gmail)
 
 Pydantic
 
-Git & GitHub
+Git & GitHub :
 📁 Project Structure
 email-auth-project/
 │
